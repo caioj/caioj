@@ -22,8 +22,6 @@ My credentials include an MBA in Business Management, Controllership and Corpora
 
 
 * **Análise do Titanic:** https://bit.ly/2V4pEHL
-* **Análise Exploratória:** https://bit.ly/2V77OUg
-* **Análise Exploratória 2:** https://bit.ly/2Vz9jtt
 * **Quarentena Dados Alura:** https://bit.ly/3eCiulA
 * **Time Series parte 1:** https://bit.ly/2yqk6i4
 * **Time Series parte 2:** https://bit.ly/3diUtPa
