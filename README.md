@@ -11,7 +11,7 @@ As a data scientist and developing Blockchain applications, I combine analytical
 
 My credentials include an MBA in Business Management, Controllership and Corporate Finance from the Postgraduate Institution (IPOG), an institution of higher education in Business Administration from the Dom Bosco Higher Education Unit (UNDB).
 
-**Background in:** Business Administration, Python, Machine Learning.
+**Background in:** Business, Corporate Finance, Python, Blockchain
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/caiojmacedo)
