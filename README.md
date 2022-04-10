@@ -8,13 +8,11 @@
 
 Sejam bem vindos, vou contar um pouco sobre mim!
 
-Formado na área de Negócios e com pós graduação em Finanças. Atualmente atuo como Gestor de Projetos em uma empresa de Marketing Digital. Sou muito curioso e apaixonado por tecnologia, além da gestão de projetos também estudo Blockchain e tudo que envolve o assunto e também estou aprimorando algumas habilidades como Desenvolvedor Blockchain. 
+Formado na área de Negócios e com pós graduação em Finanças. Atualmente atuo como Gestor de Tráfego em uma empresa de Marketing Digital. Sou muito curioso e apaixonado por tecnologia, além da gestão de tráfego também estudo Data Science e tudo que envolve o assunto e também estou aprimorando algumas habilidades em Analytics, Business Intelligence.
 
 Dá uma passada no meu LinkedIn e Github, vamos conversar!
 
-Minhas credenciais incluem um MBA em Gestão de Negócios, Controladoria e Finanças Corporativas da Instituição de Pós-Graduação (IPOG), um curso online de Engenheiro Blockchain na Data Science Academy e uma instituição de ensino superior em Administração de Empresas da Unidade de Ensino Superior Dom Bosco (UNDB).
-
-**Background in:** Business, Corporate Finance, Python, Blockchain
+**Background in:** Business, Corporate Finance, Python, Blockchain, Marketing Digital
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/caiojmacedo)
