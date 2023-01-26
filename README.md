@@ -12,8 +12,14 @@ Formado na área de Negócios e com pós graduação em Finanças. Atualmente at
 
 Dá uma passada no meu LinkedIn e Github, vamos conversar!
 
-**Formação:** Bacharel Administração, MBA Gestão de Negócios, Finanças Corporativas e Controladoria, Tecnólogo Análise e Desenvolvimento de Sistemas.
-**Background in:** Business, Corporate Finance, Python, Blockchain, Marketing Digital
+* **Formação:** Bacharel Administração, MBA Gestão de Negócios, Finanças Corporativas e Controladoria, Tecnólogo Análise e Desenvolvimento de Sistemas.
+* **Skills:** 
+  - Python, SQL, JavaScript, Java
+  - Business Intelligence (Excel, Power BI, ETL, Dax, Power Query)
+  - Data Science, Machine Learning, Cybersecurity
+  - Marketing, Gestão de Tráfego, Mídias Pagas, Google Analytics, Google Ads, Facebook Ads
+  - Gestão de Projetos, Gestão de Processos BPM/BPMN, Gestão Financeira
+
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/caiojmacedo)
