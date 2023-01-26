@@ -8,10 +8,11 @@
 
 Sejam bem vindos, vou contar um pouco sobre mim!
 
-Formado na área de Negócios e com pós graduação em Finanças. Atualmente atuo como Gestor de Tráfego em uma empresa de Marketing Digital. Sou muito curioso e apaixonado por tecnologia, além da gestão de tráfego também estudo Data Science e tudo que envolve o assunto e também estou aprimorando algumas habilidades em Analytics, Business Intelligence.
+Formado na área de Negócios e com pós graduação em Finanças. Atualmente atuo como Gestor de Tráfego em uma empresa de Marketing Digital. Sou muito curioso e apaixonado por tecnologia, além da gestão de tráfego também estudo Data Science e tudo que envolve o assunto e também estou aprimorando algumas habilidades na área de Inteligência Artificial e Blockchain.
 
 Dá uma passada no meu LinkedIn e Github, vamos conversar!
 
+**Formação:** Bacharel Administração, MBA Gestão de Negócios, Finanças Corporativas e Controladoria, Tecnólogo Análise e Desenvolvimento de Sistemas.
 **Background in:** Business, Corporate Finance, Python, Blockchain, Marketing Digital
 
 **Links:**
