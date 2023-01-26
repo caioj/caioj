@@ -20,7 +20,7 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
 
 
 ## Projetos:
-
+### Data Science
 
 * **Kaggle - Titanic: Machine Learning from Disaster:** https://bit.ly/2V4pEHL
 * **Imersão Dados Alura:** https://bit.ly/3f6fJKH
@@ -28,6 +28,12 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
 * **Time Series parte 1:** https://bit.ly/2yqk6i4
 * **Time Series parte 2:** https://bit.ly/3diUtPa
 * **Time Series parte 3:** https://bit.ly/2WydWof
+
+### Blockchain
+* **Blockchain Python:** https://github.com/caioj/Blockchain-Projects
+
+### Java
+* **Java Basico:** https://github.com/caioj/dio-java-basico
 ---
 
 
