@@ -50,7 +50,7 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
 * **Java Basico:** https://github.com/caioj/dio-java-basico
 
 ### UX/UI
-* [Aplicativo de Portifólio de UX](https://medium.com/@caioj/sepoupe-o-app-que-te-ajuda-a-economizar-e-realizar-sonhos-9cf90f52f53d)
+* [Aplicativo de Portifólio de UX - Fintech SePoupe!](https://medium.com/@caioj/sepoupe-o-app-que-te-ajuda-a-economizar-e-realizar-sonhos-9cf90f52f53d)
 ---
 
 
