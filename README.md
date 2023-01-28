@@ -16,7 +16,7 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
 * **Skills:** 
   - Python, SQL, JavaScript, Java
   - Business Intelligence (Excel, Power BI, ETL, Dax, Power Query)
-  - Data Science, Machine Learning, Cybersecurity
+  - Data Science, Machine Learning, Cybersecurity, Redes, Protocolos
   - Marketing, Gestão de Tráfego, Mídias Pagas, Google Analytics, Google Ads, Facebook Ads
   - Gestão de Projetos, Gestão de Processos BPM/BPMN, Gestão Financeira
 
