@@ -48,7 +48,7 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
 
 ### Cybersecurity
 * **Cybersec Scripts:** https://github.com/caioj/CyberSec
-* **Engenharia Social - Phishing:** https://github.com/caioj/cibersecurity-desafio-phishing/blob/master/README.md
+* **Engenharia Social - Phishing:** https://github.com/caioj/cibersecurity-desafio-phishing
 
 ### UX/UI
 * [Aplicativo de Portifólio de UX - Fintech SePoupe!](https://medium.com/@caioj/sepoupe-o-app-que-te-ajuda-a-economizar-e-realizar-sonhos-9cf90f52f53d)
