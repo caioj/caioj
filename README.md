@@ -51,6 +51,7 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
 
 ### UX/UI
 * [Aplicativo de Portifólio de UX - Fintech SePoupe!](https://medium.com/@caioj/sepoupe-o-app-que-te-ajuda-a-economizar-e-realizar-sonhos-9cf90f52f53d)
+* [Wireframe LP Onepage](https://github.com/caioj/dio-uxdesign)
 ---
 
 
