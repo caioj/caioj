@@ -14,11 +14,13 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
 
 * **Formação:** Bacharel Administração, MBA Gestão de Negócios, Finanças Corporativas e Controladoria, Tecnólogo Análise e Desenvolvimento de Sistemas.
 * **Skills:** 
-  - Python, SQL, JavaScript, Java
-  - Business Intelligence (Excel, Power BI, ETL, Dax, Power Query)
+
+  - Javascript, Solidity, Smart Contracts, Python, Banco de Dados, Linux, ReactJS, ReactNative, NodeJS
+  - Blockchain, Web3.0, Data Analytics, Business Intelligence, UX Design
   - Data Science, Machine Learning, Cybersecurity, Blockchain
   - Marketing, Gestão de Tráfego, Mídias Pagas, Google Analytics, Google Ads, Facebook Ads
-  - Gestão de Projetos, Gestão de Processos BPM/BPMN, Gestão Financeira
+  - Cybersecurity, TCP/IP, Red Team, Pentest, OffSec, Information Security
+  
 
 
 **Links:**
