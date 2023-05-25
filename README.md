@@ -8,7 +8,7 @@
 
 Sejam bem vindos, vou contar um pouco sobre mim!
 
-Formado na área de Negócios e com pós graduação em Finanças. Atualmente atuo como Gestor de Tráfego em uma empresa de Marketing Digital. Sou muito curioso e apaixonado por tecnologia. Cursando Análise e Desenvolvimento de Sistemas, trabalhando com análise de dados e atualmente estou estudando Fullstack Development, Blockchain e alguns frameworks. Também sou um entusiasta de cybersecurity e assuntos relacionados a Inteligência Artificial.
+Formado na área de Negócios e com pós graduação em Finanças. Atualmente atuo como Gestor de Tráfego em uma empresa de Marketing Digital. Sou muito curioso e apaixonado por tecnologia. Cursando Análise e Desenvolvimento de Sistemas, trabalhando com análise de dados e atualmente estou me aprofundando mais em Análise de Dados e Engenharia de Dados. Também sou um entusiasta de cybersecurity e assuntos relacionados a Inteligência Artificial.
 
 Dá uma passada no meu LinkedIn e Github, vamos conversar!
 
@@ -16,8 +16,8 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
 * **Skills:** 
 
   - Javascript, Solidity, Smart Contracts, Python, Banco de Dados, Linux, ReactJS, ReactNative, NodeJS
-  - Blockchain, Web3.0, Data Analytics, Business Intelligence, UX Design
-  - Data Science, Machine Learning, Cybersecurity, Blockchain
+  - Data Analytics, Business Intelligence, UX Design
+  - Data Science, Machine Learning, Cybersecurity
   - Marketing, Gestão de Tráfego, Mídias Pagas, Google Analytics, Google Ads, Facebook Ads
   - Cybersecurity, TCP/IP, Red Team, Pentest, OffSec, Information Security
   
