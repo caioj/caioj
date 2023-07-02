@@ -38,7 +38,7 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
 * **Clientes:** https://bit.ly/3nFx8Pn
 
 ### Python
-* **Sistema Bancario Simples:** [https://github.com/caioj/sistema_bancario/tree/main](https://github.com/caioj/sistema_bancario/tree/main)
+* **Sistema Bancario:** [https://github.com/caioj/sistema_bancario/tree/main](https://github.com/caioj/sistema_bancario/tree/main)
 * **Blockchain Python:** https://github.com/caioj/Blockchain-Projects
   
 ### Cybersecurity
