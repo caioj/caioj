@@ -15,13 +15,12 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
 * **Formação:** Bacharel Administração, MBA Gestão de Negócios, Finanças Corporativas e Controladoria, Tecnólogo Análise e Desenvolvimento de Sistemas.
 * **Skills:** 
 
-  - Javascript, Solidity, Smart Contracts, Python, Banco de Dados, Linux, ReactJS, ReactNative, NodeJS
-  - Data Analytics, Business Intelligence, UX Design
+  - Python, Django, Banco de Dados, Linux, ReactJS, ReactNative, NodeJS
+  - Data Analytics, Business Intelligence
   - Data Science, Machine Learning, Cybersecurity
   - Marketing, Gestão de Tráfego, Mídias Pagas, Google Analytics, Google Ads, Facebook Ads
   - Cybersecurity, TCP/IP, Red Team, Pentest, OffSec, Information Security
   
-
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/caiojmacedo)
@@ -32,29 +31,20 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
 ### Data Science - Dashboards PowerBI
 
 * **Kaggle - Titanic: Machine Learning from Disaster:** https://bit.ly/2V4pEHL
-* **Time Series parte 1:** https://bit.ly/2yqk6i4
-* **Time Series parte 2:** https://bit.ly/3diUtPa
-* **Time Series parte 3:** https://bit.ly/2WydWof
 * **Balança Comercial:** https://bit.ly/3KnBjZP
 * **Financeiro:** https://bit.ly/3tIMvu3
 * **Logística:** https://bit.ly/3KnVDtT
 * **Gestão de Projetos:** https://bit.ly/3KnXTSc
 * **Clientes:** https://bit.ly/3nFx8Pn
 
-### Blockchain
+### Python
+* **Sistema Bancario Simples:** [https://github.com/caioj/sistema_bancario/tree/main](https://github.com/caioj/sistema_bancario/tree/main)
 * **Blockchain Python:** https://github.com/caioj/Blockchain-Projects
-* **Donate Crypto:** https://github.com/caioj/donate-crypto
-
+  
 ### Cybersecurity
 * **Cybersec Scripts:** https://github.com/caioj/CyberSec
 * **Engenharia Social - Phishing:** https://github.com/caioj/cibersecurity-desafio-phishing
 * **Ransomware Simples - Python:** https://github.com/caioj/cibersecurity-estudo-ransomware
-
-### UX/UI
-* [Aplicativo de Portifólio de UX - Fintech SePoupe!](https://medium.com/@caioj/sepoupe-o-app-que-te-ajuda-a-economizar-e-realizar-sonhos-9cf90f52f53d)
-* [Wireframe LP Onepage](https://github.com/caioj/dio-uxdesign)
----
-
 
 
 
