@@ -8,7 +8,7 @@
 
 Sejam bem vindos, vou contar um pouco sobre mim!
 
-Formado na área de Negócios e com pós graduação em Finanças. Atualmente atuo como Gestor de Tráfego em uma empresa de Marketing Digital. Sou muito curioso e apaixonado por tecnologia. Cursando Análise e Desenvolvimento de Sistemas, trabalhando com análise de dados e atualmente estou me aprofundando mais em Análise de Dados e Engenharia de Dados. Também sou um entusiasta de cybersecurity e assuntos relacionados a Inteligência Artificial.
+Formado na área de Negócios e com pós graduação em Finanças. Atualmente atuo como Gestor de Tráfego em uma empresa de Marketing Digital. Sou muito curioso e apaixonado por tecnologia. Cursando Análise e Desenvolvimento de Sistemas, trabalhando com análise de dados e atualmente estou me aprofundando mais em Análise de Dados e Data Science. Também sou um entusiasta de Cybersecurity e assuntos relacionados a Inteligência Artificial.
 
 Dá uma passada no meu LinkedIn e Github, vamos conversar!
 
