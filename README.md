@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-caioj-red.svg)](https://www.linkedin.com/in/caiojmacedo)
 
 <p align="center">
-  <img src="Caio Macedo.jpg" >
+  <img src="CaioMacedo.png" >
 </p>
 
 # Caio Macedo
