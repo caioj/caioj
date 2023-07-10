@@ -33,7 +33,7 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
 ## Projetos:
 ### Data Science - Dashboards PowerBI
 
-* **Kaggle - Titanic: Machine Learning from Disaster:** https://bit.ly/2V4pEHL
+* **Titanic: Machine Learning from Disaster:** https://bit.ly/2V4pEHL
 * **Balança Comercial:** https://bit.ly/3KnBjZP
 * **Financeiro:** https://bit.ly/3tIMvu3
 * **Logística:** https://bit.ly/3KnVDtT
