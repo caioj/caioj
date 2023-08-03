@@ -20,8 +20,8 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
   - Data Analytics, Business Intelligence, Power BI, Looker Studio
   - Marketing, Gestão de Tráfego, Mídias Pagas, Google Analytics, Google Ads, Facebook Ads
  **Cybersecurity**
-  - TCP/IP, Red Team, Pentest, OffSec, Information Security
-  - Redes, Threat Intelligence, Linux
+  - TCP/IP, Red Team, Análise de Vulnerabilidade, Pentest, Offensive Security, Information Security
+  - Redes, Threat Intelligence, Linux, Análise de logs
   
 
 **Links:**
