@@ -15,7 +15,8 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
 
 * **Formação:** Bacharel Administração, MBA Gestão de Negócios, Finanças Corporativas e Controladoria, Pós Graduação Threat Intelligence and Hunting, Pós Graduação Redes de Computadores e Sistemas.
 * **Skills Gerais:** 
-    - Python, Banco de Dados, Javascript, HTML, CSS, Solidity, Rust
+    - Python, Banco de Dados, Javascript, HTML, CSS, Solidity, NodeJS, ReactJS, NextJS, Typescript, VueJS,     
+      Angular, Flutter;
     - Data Analytics, Business Intelligence, Power BI, Looker Studio
     - Marketing, Gestão de Tráfego, Mídias Pagas, Google Analytics, Google Ads, Facebook Ads
  * **Cybersecurity**
