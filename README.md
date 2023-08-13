@@ -40,7 +40,6 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
 * **Clientes:** https://bit.ly/3nFx8Pn
 
 ### Blockchain
-* **Sistema Bancario:** [https://github.com/caioj/sistema_bancario/tree/main](https://github.com/caioj/sistema_bancario/tree/main)
 * **Blockchain Python:** https://github.com/caioj/Blockchain-Projects
 * **Donate Crypto:** https://github.com/caioj/donate-crypto
   
