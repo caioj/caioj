@@ -30,6 +30,17 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
 
 
 ## Projetos:
+
+### Blockchain
+* **Blockchain Python:** https://github.com/caioj/Blockchain-Projects
+* **Donate Crypto:** https://github.com/caioj/donate-crypto
+  
+### Cybersecurity
+* **Scripts Python:** https://github.com/caioj/scriptspython_cybersec/tree/main
+* **Cybersec Scripts:** https://github.com/caioj/CyberSec
+* **Engenharia Social - Phishing:** https://github.com/caioj/cibersecurity-desafio-phishing
+* **Ransomware Simples - Python:** https://github.com/caioj/cibersecurity-estudo-ransomware
+
 ### Data Science - Dashboards PowerBI
 
 * **Titanic: Machine Learning from Disaster:** https://bit.ly/2V4pEHL
@@ -38,16 +49,5 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
 * **Logística:** https://bit.ly/3KnVDtT
 * **Gestão de Projetos:** https://bit.ly/3KnXTSc
 * **Clientes:** https://bit.ly/3nFx8Pn
-
-### Blockchain
-* **Blockchain Python:** https://github.com/caioj/Blockchain-Projects
-* **Donate Crypto:** https://github.com/caioj/donate-crypto
-  
-### Cybersecurity
-* **Cybersec Scripts:** https://github.com/caioj/CyberSec
-* **Engenharia Social - Phishing:** https://github.com/caioj/cibersecurity-desafio-phishing
-* **Ransomware Simples - Python:** https://github.com/caioj/cibersecurity-estudo-ransomware
-
-
 
 
