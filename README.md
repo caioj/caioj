@@ -6,12 +6,7 @@
 
 # Caio Macedo
 
-Sejam bem vindos, vou contar um pouco sobre mim!
-
-Administrador, Analista de Dados, especialista em Marketing, entusiasta de Cybersecurity e Blockchain apaixonado por tecnologia e inovação. Tenho experiência em Gestão de Negócios, Gestão de Projetos, Gestão de Processos e Marketing, sempre buscando a excelência em todas as minhas atividades.
-
-Sou capaz de desenvolver soluções criativas e eficazes para problemas complexos, garantindo a satisfação dos usuários e o sucesso dos projetos. Minha experiência em marketing digital, análise de dados e desenvolvimento me permite criar estratégias de marketing de alto impacto, gerando resultados concretos para as empresas.
-Dá uma passada no meu LinkedIn e Github, vamos conversar!
+Sejam bem vindos, aqui você vai encontrar alguns de meus projetos principais de trabalho e estudos!
 
 * **Formação:** Bacharel Administração, MBA Gestão de Negócios, Finanças Corporativas e Controladoria, Pós Graduação Threat Intelligence and Hunting, Pós Graduação Redes de Computadores e Sistemas.
 * **Skills Gerais:** 
