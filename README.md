@@ -37,7 +37,7 @@ Dá uma passada no meu LinkedIn e Github, vamos conversar!
   
 ### Cybersecurity
 * **Scripts Python:** https://github.com/caioj/scriptspython_cybersec/tree/main
-* **Cybersec Scripts:** https://github.com/caioj/CyberSec
+* **Bash:** https://github.com/caioj/CyberSec/tree/main/ParsingHTML
 * **Engenharia Social - Phishing:** https://github.com/caioj/cibersecurity-desafio-phishing
 * **Ransomware Simples - Python:** https://github.com/caioj/cibersecurity-estudo-ransomware
 
