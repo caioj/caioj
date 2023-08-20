@@ -1,8 +1,5 @@
 [![author](https://img.shields.io/badge/author-caioj-red.svg)](https://www.linkedin.com/in/caiojmacedo)
-
-<p align="center">
-  <img src="caiomacedo-github.png" >
-</p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/kairosthm.png" alt="TryHackMe">
 
 # Caio Macedo
 
@@ -18,11 +15,9 @@ Sejam bem vindos, aqui você vai encontrar alguns de meus projetos principais de
     - TCP/IP, Red Team, Análise de Vulnerabilidade, Pentest, Offensive Security, Information Security
     - Redes, Threat Intelligence, Linux, Análise de logs
   
-
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/caiojmacedo)
 * [Medium](https://www.medium.com)
-
 
 ## Projetos:
 
