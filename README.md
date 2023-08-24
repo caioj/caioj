@@ -7,7 +7,7 @@ Sejam bem vindos, aqui você vai encontrar alguns de meus projetos principais de
 
 * **Formação:** Bacharel Administração, MBA Gestão de Negócios, Finanças Corporativas e Controladoria, Pós Graduação Threat Intelligence and Hunting, Pós Graduação Redes de Computadores e Sistemas.
 * **Skills Gerais:** 
-    - Python, Java, Javascript, Typescript, PHP, HTML, CSS, Banco de Dados, NodeJS, ReactJS, VueJS, NextJS, Angular, Laravel, Spring, Django, Flask;
+    - Python, Javascript, Typescript, PHP, HTML, CSS, Banco de Dados, NodeJS, ReactJS, VueJS, NextJS, Angular, Laravel, Django, Flask;
     - Data Analytics, Business Intelligence, Power BI, Looker Studio
     - Marketing, Gestão de Tráfego, Mídias Pagas, Google Analytics, Google Ads, Facebook Ads
  * **Cybersecurity**
