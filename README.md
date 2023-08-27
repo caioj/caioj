@@ -1,5 +1,4 @@
 [![author](https://img.shields.io/badge/author-caioj-red.svg)](https://www.linkedin.com/in/caiojmacedo)
-<img src="https://tryhackme-badges.s3.amazonaws.com/Sixx.png" alt="TryHackMe">
 
 # Caio Macedo
 
