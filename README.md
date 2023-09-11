@@ -31,7 +31,6 @@ Sejam bem vindos, aqui você vai encontrar alguns de meus projetos principais de
 
 ### Data Science - Dashboards PowerBI
 
-* **Titanic: Machine Learning from Disaster:** https://bit.ly/2V4pEHL
 * **Balança Comercial:** https://bit.ly/3KnBjZP
 * **Financeiro:** https://bit.ly/3tIMvu3
 * **Logística:** https://bit.ly/3KnVDtT
