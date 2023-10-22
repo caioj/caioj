@@ -18,11 +18,7 @@ Sejam bem vindos, aqui você vai encontrar alguns de meus projetos principais de
 * [Medium](https://medium.com/@caioj)
 
 ## Projetos:
-
-### Blockchain
-* **Blockchain Python:** https://github.com/caioj/Blockchain-Projects
-* **Donate Crypto:** https://github.com/caioj/donate-crypto
-  
+ 
 ### Cybersecurity
 * **Scripts Python:** https://github.com/caioj/scriptspython_cybersec/tree/main
 * **Bash:** https://github.com/caioj/CyberSec/tree/main/ParsingHTML
@@ -36,5 +32,9 @@ Sejam bem vindos, aqui você vai encontrar alguns de meus projetos principais de
 * **Logística:** https://bit.ly/3KnVDtT
 * **Gestão de Projetos:** https://bit.ly/3KnXTSc
 * **Clientes:** https://bit.ly/3nFx8Pn
+
+### Blockchain
+* **Blockchain Python:** https://github.com/caioj/Blockchain-Projects
+* **Donate Crypto:** https://github.com/caioj/donate-crypto
 
 
