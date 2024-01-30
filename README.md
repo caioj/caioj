@@ -24,15 +24,7 @@ Sejam bem vindos, aqui você vai encontrar alguns de meus projetos principais de
 * **Bash:** https://github.com/caioj/CyberSec/tree/main/ParsingHTML
 * **Engenharia Social - Phishing:** https://github.com/caioj/cibersecurity-desafio-phishing
 * **Ransomware Simples - Python:** https://github.com/caioj/cibersecurity-estudo-ransomware
-
-### Data Science - Dashboards PowerBI
-
-* **Balança Comercial:** https://bit.ly/3KnBjZP
-* **Financeiro:** https://bit.ly/3tIMvu3
-* **Logística:** https://bit.ly/3KnVDtT
-* **Gestão de Projetos:** https://bit.ly/3KnXTSc
-* **Clientes:** https://bit.ly/3nFx8Pn
-
+* **Keylogger - Python:** https://github.com/caioj/keylogger.git
 ### Blockchain
 * **Blockchain Python:** https://github.com/caioj/Blockchain-Projects
 * **Donate Crypto:** https://github.com/caioj/donate-crypto
