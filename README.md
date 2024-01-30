@@ -8,7 +8,6 @@ Sejam bem vindos, aqui você vai encontrar alguns de meus projetos principais de
 * **Skills Gerais:** 
     - Python, Javascript, Golang, PHP, HTML, CSS, Banco de Dados, NodeJS, ReactJS, NextJS, Django, Flask;
     - Data Analytics, Business Intelligence, Power BI, Looker Studio
-    - Marketing, Gestão de Tráfego, Mídias Pagas, Google Analytics, Google Ads, Facebook Ads
  * **Cybersecurity**
     - TCP/IP, Red Team, Análise de Vulnerabilidade, Pentest, Offensive Security, Information Security
     - Redes, Threat Intelligence, Linux, Análise de logs
