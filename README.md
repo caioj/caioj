@@ -14,7 +14,6 @@ Sejam bem vindos, aqui você vai encontrar alguns de meus projetos principais de
   
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/caiojmacedo)
-* [Medium](https://medium.com/@caioj)
 
 ## Projetos:
 
