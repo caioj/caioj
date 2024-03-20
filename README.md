@@ -17,7 +17,14 @@ Sejam bem vindos, aqui você vai encontrar alguns de meus projetos principais de
 * [Medium](https://medium.com/@caioj)
 
 ## Projetos:
- 
+
+### Dashboard
+* **Dashboard Balança Comercial:** https://bit.ly/3KnBjZP
+* **Dashborad Financeiro:** https://bit.ly/3tIMvu3
+* **Dashboard de Logística:** https://bit.ly/3KnVDtT
+* **Dashboard de Projetos:** https://bit.ly/3KnXTSc
+* **Dashboard Clientes:** https://bit.ly/3nFx8Pn
+
 ### Cybersecurity
 * **Scripts Python:** https://github.com/caioj/scriptspython_cybersec/tree/main
 * **Bash:** https://github.com/caioj/CyberSec/tree/main/ParsingHTML
