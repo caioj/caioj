@@ -4,9 +4,9 @@
 
 Sejam bem vindos, aqui você vai encontrar alguns de meus projetos principais de trabalho e estudos!
 
-* **Formação:** Bacharel Administração, Técnico em Análise e Desenvolvimento de Sistemas MBA Gestão de Negócios, Pós Graduação Threat Intelligence and Hunting, Pós Graduação Redes de Computadores e Sistemas.
+* **Formação:** Bacharel Administração, Bacharel Engenharia de Software, MBA Gestão de Negócios, Controladoria e Finanças Corporativas, Pós Graduação Threat Intelligence and Hunting, Pós Graduação Redes de Computadores e Sistemas.
 * **Skills Gerais:** 
-    - Python, PHP, HTML, CSS, Banco de Dados, NodeJS, Django, Flask;
+    - Python, PHP, Banco de Dados, Django, Flask;
     - Data Analytics, Business Intelligence, Power BI, Looker Studio
  * **Cybersecurity**
     - TCP/IP, Red Team, Análise de Vulnerabilidade, Pentest, Offensive Security, Information Security
