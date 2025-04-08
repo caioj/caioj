@@ -4,13 +4,7 @@
 
 Sejam bem vindos, aqui você vai encontrar alguns de meus projetos principais de trabalho e estudos!
 
-* **Formação:** Bacharel Administração, Bacharel Engenharia de Software, MBA Gestão de Negócios, Controladoria e Finanças Corporativas, Pós Graduação Threat Intelligence and Hunting, Pós Graduação Redes de Computadores e Sistemas.
-* **Skills Gerais:** 
-    - Python, PHP, Banco de Dados, Django, Flask;
-    - Data Analytics, Business Intelligence, Power BI, Looker Studio
- * **Cybersecurity**
-    - TCP/IP, Red Team, Análise de Vulnerabilidade, Pentest, Offensive Security, Information Security
-    - Redes, Threat Intelligence, Linux, Análise de logs
+Profissional multidisciplinar, atualmente trabalhando com analytics mais focado em Marketing. Tenho conhecimento em outras áreas como Desenvolvimento Fullstack, UX Design, Business Intelligence e outras.
   
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/caiojmacedo)
