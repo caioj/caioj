@@ -4,7 +4,7 @@
 
 Sejam bem vindos, aqui você vai encontrar alguns de meus projetos principais de trabalho e estudos!
 
-Profissional multidisciplinar, atualmente trabalhando com analytics mais focado em Marketing. Tenho conhecimento em outras áreas como Desenvolvimento Fullstack, UX Design, Business Intelligence e outras.
+Profissional multidisciplinar, atualmente trabalhando com analytics mais focado em Marketing. Tenho conhecimento em outras áreas como Cibersegurança, Business Intelligence e outras.
   
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/caiojmacedo)
