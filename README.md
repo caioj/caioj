@@ -11,6 +11,8 @@ Profissional multidisciplinar, atualmente trabalhando com analytics mais focado 
 
 ## Projetos:
 
+### Data Science
+* **Finanças Corporativas: Analise de Viabilidade de Projeto** https://github.com/caioj/analise-de-viabilidade-projeto/tree/main
 ### Dashboard
 * **Dashboard Balança Comercial:** https://bit.ly/3KnBjZP
 * **Dashborad Financeiro:** https://bit.ly/3tIMvu3
@@ -24,8 +26,5 @@ Profissional multidisciplinar, atualmente trabalhando com analytics mais focado 
 * **Engenharia Social - Phishing:** https://github.com/caioj/cibersecurity-desafio-phishing
 * **Ransomware Simples - Python:** https://github.com/caioj/cibersecurity-estudo-ransomware
 * **Keylogger - Python:** https://github.com/caioj/keylogger.git
-### Blockchain
-* **Blockchain Python:** https://github.com/caioj/Blockchain-Projects
-* **Donate Crypto:** https://github.com/caioj/donate-crypto
 
 
