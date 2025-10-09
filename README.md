@@ -21,6 +21,7 @@ Profissional multidisciplinar, atualmente trabalhando com analytics mais focado 
 * **Dashboard Clientes:** https://bit.ly/3nFx8Pn
 
 ### Cybersecurity
+* **GRC Lite:** https://github.com/caioj/grc-lite-risk-analyzer/tree/main
 * **Scripts Python:** https://github.com/caioj/scriptspython_cybersec/tree/main
 * **Bash:** https://github.com/caioj/CyberSec/tree/main/ParsingHTML
 * **Engenharia Social - Phishing:** https://github.com/caioj/cibersecurity-desafio-phishing
