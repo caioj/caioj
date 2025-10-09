@@ -13,6 +13,7 @@ Profissional multidisciplinar, atualmente trabalhando com analytics mais focado 
 
 ### Data Science
 * **Finanças Corporativas: Analise de Viabilidade de Projeto** https://github.com/caioj/analise-de-viabilidade-projeto/tree/main
+* **Valuation-DCF:** https://github.com/caioj/valuation-dcf/tree/main
 ### Dashboard
 * **Dashboard Balança Comercial:** https://bit.ly/3KnBjZP
 * **Dashborad Financeiro:** https://bit.ly/3tIMvu3
