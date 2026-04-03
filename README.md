@@ -2,31 +2,18 @@
 
 # Caio Macedo
 
-Sejam bem vindos, aqui você vai encontrar alguns de meus projetos principais de trabalho e estudos!
+Sou Caio, com formação em Administração e pós-graduação em Gestão de Negócios, Controladoria e Finanças Corporativas, com atuação prática em dados e análise.
 
-Profissional multidisciplinar, atualmente trabalhando com analytics mais focado em Marketing. Tenho conhecimento em outras áreas como Data Science, Business Intelligence, Cibersegurança.
+Desenvolvo soluções para coleta, tratamento e organização de dados, unindo visão de negócio e base técnica. Trabalho com Python, SQL, integração de APIs e bancos de dados relacionais para automação de processos e estruturação de dados para análise.
+
+Tenho experiência com análise de dados aplicada a marketing e performance, além de forte capacidade analítica, comunicação com stakeholders e foco em geração de valor a partir de dados.
+
+Na prática, atuo com projetos que envolvem extração, transformação e análise de dados, sempre buscando melhorar a qualidade da informação e apoiar a tomada de decisão.
   
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/caiojmacedo)
-
-## Projetos:
-
-### Data Science
-* **Finanças Corporativas: Analise de Viabilidade de Projeto** https://github.com/caioj/analise-de-viabilidade-projeto/tree/main
-* **Valuation-DCF:** https://github.com/caioj/valuation-dcf/tree/main
-### Dashboard
-* **Dashboard Balança Comercial:** https://bit.ly/3KnBjZP
-* **Dashborad Financeiro:** https://bit.ly/3tIMvu3
-* **Dashboard de Logística:** https://bit.ly/3KnVDtT
-* **Dashboard de Projetos:** https://bit.ly/3KnXTSc
-* **Dashboard Clientes:** https://bit.ly/3nFx8Pn
-
-### Cybersecurity
-* **GRC Lite:** https://github.com/caioj/grc-lite-risk-analyzer/tree/main
-* **Scripts Python:** https://github.com/caioj/scriptspython_cybersec/tree/main
-* **Bash:** https://github.com/caioj/CyberSec/tree/main/ParsingHTML
-* **Engenharia Social - Phishing:** https://github.com/caioj/cibersecurity-desafio-phishing
-* **Ransomware Simples - Python:** https://github.com/caioj/cibersecurity-estudo-ransomware
-* **Keylogger - Python:** https://github.com/caioj/keylogger.git
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,python,docker,github,html,linux,postgres,mysql,ts,java,js,php,laravel" />
+  </a>
+</p>
 
 
