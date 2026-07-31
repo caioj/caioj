@@ -1,5 +1,3 @@
-<h1 align="center">👋 Hi, I'm Caio Macedo</h1>
-
 <h3 align="center">
 Data Engineer | Python | SQL | Cloud | Data Pipelines | Analytics
 </h3>
